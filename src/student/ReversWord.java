@@ -4,10 +4,7 @@
  */
 package student;
 import java.util.Scanner;
-/**
- *
- * @author Administrator
- */
+/*author: Bai Jin */
 public class ReversWord {
     public static void main(String[] args){
         char[] myArray=new char[7];
